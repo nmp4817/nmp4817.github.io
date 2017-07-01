@@ -70,7 +70,6 @@ body {
 	padding: 0;
 }
 #header .section ul li a {
-	background: url(../images/bg-nav-left.gif) no-repeat top left;
 	color: #ccc;
 	display: inline-block;
 	font-size: 16px;
